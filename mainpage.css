@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins" , sans-serif; /* for all */
+}
+
+body {
+   
+    min-height: 100vh; /* Make the body take up the full viewport height */
+   display: flex;
+   justify-content: top; /* Center items horizontally */
+   align-items: left; /* Center items vertically */
+   font-family: "poppins", sans-serif;
+   background-position: center;
+   background-size: cover;
+}
+h2{
+    background-color: blue;
+    
+}
