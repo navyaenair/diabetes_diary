@@ -15,7 +15,22 @@ body {
    background-position: center;
    background-size: cover;
 }
-h2{
-    background-color: blue;
-    
+.container
+{
+ background-color: blue;
+ width: 100%;
+ height: min-content;
+ color:whitesmoke;
+}
+table
+{
+        border-collapse: collapse;
+        width: 100%;
+}
+th {
+    background-color: gray;
+    color: white;
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
 }
